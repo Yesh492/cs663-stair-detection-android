@@ -20,7 +20,7 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         
         // Gemini API key - loaded from local.properties
-        buildConfigField("String", "GEMINI_API_KEY", "\"AIzaSyD2LcVc0kH9CedZx-TqcT9Vfp1ahVbH334\"")
+        buildConfigField("String", "GEMINI_API_KEY", "\"AIzaSyDYlg4II3-MPls40vza96RSAtTFCtpdr_Q\"")
     }
 
     buildTypes {
